@@ -66,6 +66,25 @@ Important Notes
 	•	Sensitive Data: Be cautious when sharing your API key. The key is stored in the code and should be kept private.
 	•	Memory Function: Enabling the “Remember Chats” option will allow the AI to remember previous conversations and use that context for generating responses.
 
+
+Images
+
+*Dynamic text color changing, AI's memory can be toggled via a switch* 
+
+<img width="1396" alt="Screenshot 2025-01-02 at 4 18 52 PM" src="https://github.com/user-attachments/assets/c66c30f6-dfda-4bb2-a769-ff3288cbdfc9" />
+
+<img width="1414" alt="Screenshot 2025-01-02 at 4 19 04 PM" src="https://github.com/user-attachments/assets/3ce66163-6de4-49b9-abba-6f67b3d696e4" />
+
+<img width="1417" alt="Screenshot 2025-01-02 at 4 19 16 PM" src="https://github.com/user-attachments/assets/59fab3eb-2ac8-42d1-8a1c-a84a43fe8f03" />
+
+<img width="303" alt="Screenshot 2025-01-02 at 4 19 28 PM" src="https://github.com/user-attachments/assets/f419fe23-5160-4661-8ca9-4290cd14e557" />
+
+*JSON files allow you to store and update settings and chat history*
+
+<img width="1355" alt="Screenshot 2025-01-02 at 4 19 52 PM" src="https://github.com/user-attachments/assets/a51b1677-afd4-4b08-a3e7-f2fc89c06071" />
+
+<img width="1470" alt="Screenshot 2025-01-02 at 4 20 04 PM" src="https://github.com/user-attachments/assets/aca1fff2-901f-4684-b4ed-992b5b78d097" />
+
 Contributing
 
 If you’d like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
