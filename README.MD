@@ -71,9 +71,9 @@ Images
 
 *Dynamic text color changing, AI's memory can be toggled via a switch* 
 
-<img width="1396" alt="Screenshot 2025-01-02 at 4 18 52 PM" src="https://github.com/user-attachments/assets/c66c30f6-dfda-4bb2-a769-ff3288cbdfc9" />
+<img width="811" alt="Screenshot 2025-01-02 at 4 16 13 PM" src="https://github.com/user-attachments/assets/2e7a9f17-c765-4f01-a7c6-3db25ee4bd24" />
 
-<img width="1414" alt="Screenshot 2025-01-02 at 4 19 04 PM" src="https://github.com/user-attachments/assets/3ce66163-6de4-49b9-abba-6f67b3d696e4" />
+<img width="1396" alt="Screenshot 2025-01-02 at 4 18 52 PM" src="https://github.com/user-attachments/assets/c66c30f6-dfda-4bb2-a769-ff3288cbdfc9" />
 
 <img width="1417" alt="Screenshot 2025-01-02 at 4 19 16 PM" src="https://github.com/user-attachments/assets/59fab3eb-2ac8-42d1-8a1c-a84a43fe8f03" />
 
